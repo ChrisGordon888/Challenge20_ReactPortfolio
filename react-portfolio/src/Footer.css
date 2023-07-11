@@ -1,0 +1,42 @@
+.footer {
+    background-color: #111111;
+    padding: 20px;
+    color: #ffffff;
+  }
+  
+  .footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .footer-nav {
+    margin-top: 10px;
+  }
+  
+  .nav-list {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-item {
+    margin-right: 20px;
+  }
+  
+  .nav-link {
+    color: #ffffff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .nav-link:hover {
+    color: #ffcc00;
+  }
+  
+  .footer-text {
+    margin-top: 20px;
+    font-size: 0.9rem;
+    text-align: center;
+  }

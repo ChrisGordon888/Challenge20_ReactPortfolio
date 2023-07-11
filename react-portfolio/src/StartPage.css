@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Press Start 2P';
+    src: url('./fonts/PressStart2P-Regular.ttf') format('truetype');
+    /* Add additional font formats if necessary */
+  }
+
+.start-page {
+    /* Replace with your own styles */
+    background-color: rgba(70, 7, 218, 0.39); /* Change this for a semi-transparent effect */
+    /* Add more styles for a pixelated button, etc. */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9999; /* Ensure the StartPage is positioned on top */
+  
+    /* New styles for centering */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .start-button {
+    border: none;
+    background-color: transparent;
+    font-size: 24px;
+    padding: 10px 20px;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  
+    /* Pixelated font */
+    font-family: 'Press Start 2P', sans-serif;
+  }
+  
+  .start-button:hover {
+    transform: scale(1.1);
+  }
+  
+  .start-button:active {
+    transform: scale(0.9);
+  }

@@ -1,0 +1,37 @@
+.resume {
+  background: linear-gradient(135deg, #231557, #44107a, #ff1361, #fff800);
+  background-size: 600% 600%;
+  animation: gradientAnimation 20s ease infinite;
+  color: #ffffff;
+  padding: 2rem;
+}
+
+@keyframes gradientAnimation {
+  0% {
+    background-position: 0% 100%;
+  }
+  50% {
+    background-position: 100% 0%;
+  }
+  100% {
+    background-position: 0% 100%;
+  }
+}
+
+.resume a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.resume h3 {
+  margin-top: 1rem;
+}
+
+.resume ul {
+  list-style-type: none;
+  padding-left: 1rem;
+}
+
+.resume ul li {
+  margin-bottom: 0.5rem;
+}
