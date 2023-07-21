@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Challenge20_ReactPortfolio/static/css/main.7ac47ef9.css",
+    "main.js": "/Challenge20_ReactPortfolio/static/js/main.0032d51f.js",
+    "static/js/787.a2cb61a6.chunk.js": "/Challenge20_ReactPortfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/2.jpg": "/Challenge20_ReactPortfolio/static/media/2.22e5965ea272d96e5e55.jpg",
+    "static/media/1.jpg": "/Challenge20_ReactPortfolio/static/media/1.04941d9ca4ee30f0a1e3.jpg",
+    "static/media/3.jpg": "/Challenge20_ReactPortfolio/static/media/3.64323feba67fca5b401a.jpg",
+    "static/media/0.jpg": "/Challenge20_ReactPortfolio/static/media/0.332de3546144ecbf9d62.jpg",
+    "static/media/PressStart2P-Regular.ttf": "/Challenge20_ReactPortfolio/static/media/PressStart2P-Regular.21503c6a5385ab41dde9.ttf",
+    "static/media/slick.svg": "/Challenge20_ReactPortfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Challenge20_ReactPortfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Challenge20_ReactPortfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Challenge20_ReactPortfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Challenge20_ReactPortfolio/index.html",
+    "main.7ac47ef9.css.map": "/Challenge20_ReactPortfolio/static/css/main.7ac47ef9.css.map",
+    "main.0032d51f.js.map": "/Challenge20_ReactPortfolio/static/js/main.0032d51f.js.map",
+    "787.a2cb61a6.chunk.js.map": "/Challenge20_ReactPortfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ac47ef9.css",
+    "static/js/main.0032d51f.js"
+  ]
+}
